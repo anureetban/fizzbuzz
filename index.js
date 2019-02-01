@@ -1,3 +1,3 @@
 'use strict';
 
-console.log('Anureet cloning the fizzbuzz');
+console.log('Anureet cloning the fizzbuzz project');
