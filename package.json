@@ -1,0 +1,19 @@
+{
+  "name": "fizzbuzz",
+  "version": "1.0.0",
+  "description": "test project",
+  "main": "index.js",
+  "scripts": {
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/anureetban/fizzbuzz.git"
+  },
+  "author": "anureet",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/anureetban/fizzbuzz/issues"
+  },
+  "homepage": "https://github.com/anureetban/fizzbuzz#readme"
+}
